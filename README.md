@@ -1,5 +1,5 @@
 # MineSweeper-ASM
-Classic Minesweeper programmed in Assembly language. 
+Classic Minesweeper programmed in Assembly language using the MIPSym IDE https://mipsym.github.io/mipsym/
 ### Controls:
 - Left Click: uncovers tile
 - Right Click: Marks hidden tile as bomb
